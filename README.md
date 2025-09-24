@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hello! 👋 I'm Thaciane</h1>
+<p align="center">💻 Developer passionate about technology and innovation</p>
 
-<!--
-**Thacianetads/Thacianetads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Technology student in Systems Analysis and Development at IFPR  
+-  Currently working on personal projects  
+-  Learning: Python, React, and frameworks  
+-  I love solving problems with code and learning new things every day  
+
+---
+
+### Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,c,cs" />
+
+<img src="https://skillicons.dev/icons?i=angular,react" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,flask" />
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,docker,netlify" />
+
+</p>
+
+
+
