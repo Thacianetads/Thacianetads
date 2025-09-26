@@ -8,7 +8,7 @@
 -  Technology student in Systems Analysis and Development at IFPR  
 -  Currently working on personal projects  
 -  Learning: Python, React, and frameworks  
--  I love solving problems with code and learning new things every day  
+-  I enjoy solving problems with code and learning new things every day.
 
 ---
 
