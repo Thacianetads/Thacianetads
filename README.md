@@ -5,9 +5,9 @@
 
 ### About Me
 
--  Technology student in Systems Analysis and Development at IFPR  
--  Currently working on personal projects  
--  Learning: Python, Django, API  
+-  Technology student in Systems Analysis and Development at IFPR.  
+-  Currently working on personal projects.  
+-  Learning: Python, Django, API.  
 -  I enjoy solving problems with code and learning new things every day.
 
 ---
