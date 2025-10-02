@@ -7,7 +7,7 @@
 
 -  Technology student in Systems Analysis and Development at IFPR  
 -  Currently working on personal projects  
--  Learning: Python, React, and frameworks  
+-  Learning: Python, Django, API  
 -  I enjoy solving problems with code and learning new things every day.
 
 ---
@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=angular,react" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,flask,express" />
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
