@@ -14,7 +14,7 @@
 
 ### Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,c,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,cs" />
 
 <img src="https://skillicons.dev/icons?i=angular,react" />
 
