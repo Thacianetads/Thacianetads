@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=angular,react" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,flask,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express" />
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
