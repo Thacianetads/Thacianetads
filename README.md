@@ -22,7 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,docker,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,docker,netlify, insomnia" />
 
 </p>
 
