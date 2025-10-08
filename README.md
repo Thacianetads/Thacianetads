@@ -16,13 +16,11 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,cs" />
 
-<img src="https://skillicons.dev/icons?i=angular,react" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,react" />
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,docker,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,netlify" />
 
 </p>
 
