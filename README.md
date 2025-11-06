@@ -21,7 +21,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman,netlify,supabase" />
-<img src="https://icon-sets.iconify.design/simple-icons/n8n.svg" width="32" alt="n8n" />
 
 
 </p>
