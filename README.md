@@ -25,5 +25,7 @@
 
 </p>
 
+![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?Thacianetads&layout=compact&theme=vision-friendly-dark)
+
 
 
