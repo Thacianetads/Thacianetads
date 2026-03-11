@@ -20,7 +20,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,docker,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,docker,postman,netlify,n8n" />
 
 
 </p>
