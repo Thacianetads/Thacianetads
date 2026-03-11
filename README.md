@@ -18,9 +18,9 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,react" />
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite, postgres, supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite, postgres" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,docker,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,docker,postman,netlify, supabase" />
 
 
 </p>
