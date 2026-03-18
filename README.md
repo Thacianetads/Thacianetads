@@ -5,10 +5,7 @@
 
 ### About Me
 
--  Technology student in Systems Analysis and Development at IFPR.  
--  Currently working on personal projects.  
--  Learning: Python, Django, API.  
--  I enjoy solving problems with code and learning new things every day.
+I am a student of Technology in Systems Analysis and Development at IFPR, seeking an internship in Software Development, focusing on Back-end and Automation. My goal is to contribute to IT projects by applying good programming practices and evolving technically with the team.
 
 ---
 
