@@ -19,7 +19,7 @@ I am a student of Technology in Systems Analysis and Development at IFPR, seekin
 
 <img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,linux" />
 
-<img src="https://skillicons.dev/icons?i=netbeans,visualstudio,vscode,eclipse,github,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,postman,netlify" />
 
 
 </p>
