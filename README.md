@@ -17,7 +17,7 @@ I am a student of Technology in Systems Analysis and Development at IFPR, seekin
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase" />
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=windows,docker,git,linux" />
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,postman,netlify" />
 
