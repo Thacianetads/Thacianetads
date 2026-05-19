@@ -23,6 +23,7 @@ I am a student of Technology in Systems Analysis and Development at IFPR, seekin
 
 ![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Thacianetads&show_icons=true&theme=radial) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thacianetads&layout=compact&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thacianetads&layout=compact&theme=radial)
 </p>
 
 
