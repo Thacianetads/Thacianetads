@@ -21,6 +21,7 @@ I am a student of Technology in Systems Analysis and Development at IFPR, seekin
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,postman,netlify" />
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thacianetads&show_icons=true&theme=radial)
 
 </p>
 
