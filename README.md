@@ -13,7 +13,7 @@ I am a student of Technology in Systems Analysis and Development at IFPR, seekin
 
 <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,cs" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,maven,react" />
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase" />
 
