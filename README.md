@@ -5,7 +5,7 @@
 
 ### About Me
 
-I am a student of Technology in Systems Analysis and Development at IFPR, seeking an internship in Software Development, focusing on Back-end and Automation. My goal is to contribute to IT projects by applying good programming practices and evolving technically with the team.
+Dedicated IT student with 6 months of professional experience in systems development, including automation with n8n, artificial intelligence (LLM), APIs, and Scrum methodology. Currently an intern at NSI Nova developing projects with Java, Angular, PostgreSQL, and API creation. I enjoy challenges, solving problems using code, and contributing to challenging projects.
 
 ---
 
