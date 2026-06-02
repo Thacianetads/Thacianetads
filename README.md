@@ -28,6 +28,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMVonnSeek&theme=dark&background=0d0d0d&border=EE0000&ring=EE0000&fire=cc0000&currStreakLabel=EE0000&sideLabels=EE0000&dates=aaaaaa" width="49%">
 </p>
 
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 
