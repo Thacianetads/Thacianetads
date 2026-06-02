@@ -33,9 +33,9 @@ www.linkedin.com/in/thaciane-de-paula-fernandes-710670387
 
 <br clear="left"/>
 
-<img src="https://skillicons.dev/icons?i=gmail" align="left" height="20" />
+<img src="https://skillicons.dev/icons?i=gmail" align="left" height="30" />
 
-thaciane5709@gmail.com
+<p class="align-left">thaciane5709@gmail.com
 
 <br clear="left"/>
 
