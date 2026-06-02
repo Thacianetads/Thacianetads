@@ -30,6 +30,9 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMVonnSeek&bg_color=0d0d0d&color=EE0000&line=cc0000&point=ffffff&area=true&area_color=EE0000&border_color=EE0000" width="100%">
+</p>
 
 
 
