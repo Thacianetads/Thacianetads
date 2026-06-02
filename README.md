@@ -25,17 +25,8 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 ---
 
-### Contribuitions
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thacianetads&theme=default&background=ffffff&border=d0d7de&ring=0969da&fire=fd8c06&currStreakLabel=24292f&sideLabels=24292f&dates=57606a" width="49%">
 
-</p> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thacianetads&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&area_color=f6f8fa&border_color=d0d7de" width="100%">
-</p>
 
 
 
