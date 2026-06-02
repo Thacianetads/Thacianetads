@@ -25,7 +25,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 ---
 
-## Contact me
+### Contact me
 
 <img src="https://skillicons.dev/icons?i=linkedin" align="left" height="30" />
 
