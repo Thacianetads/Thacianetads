@@ -27,7 +27,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 ## Contact me
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="30" /> www.linkedin.com/in/thaciane-de-paula-fernandes-710670387
+<img src="https://skillicons.dev/icons?i=linkedin" width="30" /> <a href="www.linkedin.com/in/thaciane-de-paula-fernandes-710670387">
 
 
 
