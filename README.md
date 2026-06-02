@@ -8,11 +8,12 @@
 Dedicated IT student with 6 months of professional experience in systems development, including automation with n8n, artificial intelligence (LLM), APIs, and Scrum methodology. Currently an intern at NSI Nova developing projects with Java, Angular, PostgreSQL, and API creation. I enjoy challenges, solving problems using code, and contributing to challenging projects.
 
 
+
 <img src="https://skillicons.dev/icons?i=linkedin" align="left" height="30" />
 
 www.linkedin.com/in/thaciane-de-paula-fernandes-710670387
 
-<a href=""><img src="https://skillicons.dev/icons?i=gmail" align="left" height="30" /></a>
+<img src="https://skillicons.dev/icons?i=gmail" align="left" height="30" />
 
 thaciane5709@gmail.com
 
