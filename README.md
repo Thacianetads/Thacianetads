@@ -30,7 +30,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thacianetads&bg_color=0d0d0d&color=EE0000&line=cc0000&point=ffffff&area=true&area_color=EE0000&border_color=EE0000" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thacianetads&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&area_color=f6f8fa&border_color=d0d7de" width="100%">
 </p>
 
 
