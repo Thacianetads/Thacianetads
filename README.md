@@ -29,17 +29,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 <p><img src="https://skillicons.dev/icons?i=linkedin" width="40" /> www.linkedin.com/in/thaciane-de-paula-fernandes-71067038</p>
 
-  <div style="position: absolute; top: 25%; left: 5%; color: white;">
-    <header>
-      <h1 class="w3-jumbo" style="margin: 0;">
-        <span class="w3-hide-small" style="font-size:110px;">Hello!</span>
-      </h1>
-      <h1 class="w3-jumbo" style="margin: 0;">
-        <span class="w3-hide-small" style="font-size:90px;">I'm Thaciane</span>
-      </h1>
-      <h2 style="margin-top: 8px;">Back-End & Full Stack</h2>
-    </header>
-  </div>
+
 
 
 
