@@ -40,23 +40,6 @@ https://github.com/Thacianetads
 
 ---
 
-### Contact me
-
-<img src="https://skillicons.dev/icons?i=linkedin" align="left" height="30" />
-
-www.linkedin.com/in/thaciane-de-paula-fernandes-710670387
-
-<a href=""><img src="https://skillicons.dev/icons?i=gmail" align="left" height="30" /></a>
-
-thaciane5709@gmail.com
-
-<img src="https://skillicons.dev/icons?i=github" align="left" height="30" />
-
-https://github.com/Thacianetads
-
-<br clear="left"/>
-
----
 
 
 
