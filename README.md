@@ -23,6 +23,8 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&title_color=EE0000&icon_color=EE0000&text_color=ffffff&bg_color=0d0d0d&border_color=EE0000&hide_border=false" width="100%">
+
 
 
 
