@@ -23,7 +23,12 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&title_color=EE0000&icon_color=EE0000&text_color=ffffff&bg_color=0d0d0d&border_color=EE0000&hide_border=false" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMVonnSeek&layout=compact&title_color=EE0000&text_color=ffffff&bg_color=0d0d0d&border_color=EE0000&langs_count=8" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMVonnSeek&theme=dark&background=0d0d0d&border=EE0000&ring=EE0000&fire=cc0000&currStreakLabel=EE0000&sideLabels=EE0000&dates=aaaaaa" width="49%">
+</p>
+
+
 
 
 
