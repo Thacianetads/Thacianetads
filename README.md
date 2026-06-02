@@ -25,7 +25,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thacianetads&layout=compact&title_color=000000&text_color=333333&bg_color=ffffff&border_color=e1e4e8&langs_count=8" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&background=0d0d0d&border=EE0000&ring=EE0000&fire=cc0000&currStreakLabel=EE0000&sideLabels=EE0000&dates=aaaaaa" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thacianetads&theme=dark&background=0d0d0d&border=EE0000&ring=EE0000&fire=cc0000&currStreakLabel=EE0000&sideLabels=EE0000&dates=aaaaaa" width="49%">
 </p>
 </p>
 
