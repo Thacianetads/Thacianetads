@@ -23,6 +23,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 </p>
 
+---
 
 ### Contribuitions
 
