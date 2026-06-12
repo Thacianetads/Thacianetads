@@ -25,7 +25,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 <img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,linux,mint" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,postman,arduíno,netlify" />
 
 </p>
 
