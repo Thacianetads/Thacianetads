@@ -9,7 +9,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thacianetads&theme=default&background=ffffff&border=d0d7de&ring=0969da&fire=fd8c06&currStreakLabel=24292f&sideLabels=24292f&dates=57606a" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thacianetads&theme=dark&background=ffffff&border=d0d7de&ring=0969da&fire=fd8c06&currStreakLabel=24292f&sideLabels=24292f&dates=57606a" width="49%">
 
 </p>
 
