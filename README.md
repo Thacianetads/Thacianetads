@@ -5,7 +5,7 @@
 
 ### About Me
 
-Dedicated IT student with 6 months of professional experience in systems development, including automation with n8n, artificial intelligence (LLM), APIs, and Scrum methodology. Currently an intern at NSI Nova developing projects with Java, Angular, PostgreSQL, and API creation. I enjoy challenges, solving problems using code, and contributing to challenging projects.
+Dedicated IT student with 8 months of professional experience in systems development, including automation with n8n, artificial intelligence (LLM), APIs, and Scrum methodology. Currently an intern at NSI Nova developing projects with Java, Angular, PostgreSQL, and API creation. I enjoy challenges, solving problems using code, and contributing to challenging projects.
 
 <p align="center">
 
@@ -19,7 +19,7 @@ Dedicated IT student with 6 months of professional experience in systems develop
 
 <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,cs" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,spring,dotnet,django,express,angular,maven,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,maven,react" />
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase" />
 
