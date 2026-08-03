@@ -21,7 +21,7 @@ Dedicated IT student with 8 months of professional experience in systems develop
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,react" />
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase,mongodb" />
 
 <img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,linux,mint" />
 
