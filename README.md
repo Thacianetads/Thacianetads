@@ -17,7 +17,7 @@ Dedicated IT student with 8 months of professional experience in systems develop
 
 ### Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,java,js,ts,php,python,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,js,ts,php,python,cs" />
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,django,express,angular,react" />
 
