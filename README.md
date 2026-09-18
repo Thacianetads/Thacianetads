@@ -17,7 +17,7 @@ Dedicated IT student with 1 year of professional experience in systems developme
 
 ### Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,js,ts,php,python,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,js,ts,python,cs" />
 
 <img src="https://skillicons.dev/icons?i=nodejs,npm,maven,yarn,spring,dotnet,django,express,angular,react" />
 
