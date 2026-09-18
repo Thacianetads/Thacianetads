@@ -19,13 +19,13 @@ Dedicated IT student with 1 year of professional experience in systems developme
 
 <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,python,cs" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,maven,yarn,spring,dotnet,django,express,angular,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,npm,maven,yarn,spring,dotnet,django,angular,react" />
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase,mongodb" />
 
-<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,linux,mint" />
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,github,linux,mint" />
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,postman" />
 
 </p>
 
