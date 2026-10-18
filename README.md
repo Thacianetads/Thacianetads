@@ -1,11 +1,11 @@
-<h1 align="center">Hello! 👋 I'm Thaciane</h1>
-<p align="center">💻 Developer passionate about technology and innovation</p>
+<h1 align="center">Olá! 👋 Eu sou a Thaciane</h1>
+<p align="center">💻 Desenvolvedora back-end & Full Stack</p>
 
 ---
 
 ### About Me
 
-Dedicated IT student with 1 year of professional experience in systems development, including automation with n8n, artificial intelligence (LLM), APIs, and Scrum methodology. Currently an intern at NSI Nova developing projects with Java, Angular, PostgreSQL, and API creation. I enjoy challenges, solving problems using code, and contributing to challenging projects.
+Estudante de TI dedicada, com 1 ano de experiência profissional em desenvolvimento de sistemas, incluindo automação com inteligência artificial (LLM), APIs e metodologia Scrum. Atualmente estou desenvolvendo projetos com Java, Angular, PostgreSQL e criação de APIs. Gosto de desafios, de solucionar problemas por meio de código e de contribuir para projetos complexos.
 
 <p align="center">
 
@@ -15,7 +15,7 @@ Dedicated IT student with 1 year of professional experience in systems developme
 
 ---
 
-### Technologies & Tools
+### Tecnologias e Ferramentas
 <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,python,cs" />
 
 <img src="https://skillicons.dev/icons?i=nodejs,npm,maven,yarn,spring,dotnet,django,angular,react,next,nest" />
