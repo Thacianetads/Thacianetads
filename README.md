@@ -3,7 +3,7 @@
 
 ---
 
-### About Me
+### Sobre mim
 
 Estudante de TI dedicada, com 1 ano de experiência profissional em desenvolvimento de sistemas, incluindo automação com inteligência artificial (LLM), APIs e metodologia Scrum. Atualmente estou desenvolvendo projetos com Java, Angular, PostgreSQL e criação de APIs. Gosto de desafios, de solucionar problemas por meio de código e de contribuir para projetos complexos.
 
