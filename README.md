@@ -22,7 +22,7 @@ Estudante de TI dedicada, com 1 ano de experiência profissional em desenvolvime
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase,mongodb,redis" />
 
-<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,github,gitlab,linux,mint,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,github,gitlab,linux,mint,rabbitmq,jest,junit" />
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,postman" />
 
